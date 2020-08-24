@@ -1,0 +1,1 @@
+# Bootstrap_inference_for_network_vector_autoregression_in_large_scale_social_network
